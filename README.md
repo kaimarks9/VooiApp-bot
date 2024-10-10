@@ -95,6 +95,9 @@ USING THIS BOT IS THE USER'S RESPONSIBILITY, DEVELOPER WON'T BE HELD ACCOUNTABLE
 
 [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/kaimarks9)
 
+## JOIN CHANNEL
+[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](t.me/k9_airdropbot)
+
 ## Support my work
 [<img
 src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">](https://trakteer.id/kaimarks9)
